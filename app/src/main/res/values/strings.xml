@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Polling App</string>
+    <string name="button">Button</string>
+    <string name="header_text">Development an Android app</string>
+    <string name="title_activity_pooling">Pooling</string>
+    <string name="button2">Next</string>
+    <string name="button3">Previous</string>
+</resources>
